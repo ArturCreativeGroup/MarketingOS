@@ -1,0 +1,5 @@
+# Debe servirse en https://arturcreativegroup.github.io/robots.txt
+# En /MarketingOS/robots.txt los buscadores no lo utilizan.
+User-agent: *
+Allow: /
+Sitemap: https://arturcreativegroup.github.io/MarketingOS/sitemap.xml
